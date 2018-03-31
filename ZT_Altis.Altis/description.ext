@@ -1,0 +1,8 @@
+respawn = 3;
+respawndelay = 5;
+respawnButton = 1;
+disabledAI = true;
+enableDebugConsole = 1;
+onLoadMission = "PDG Zeus Template";
+author = "PDG Xian (maybe Wolf? I copy pasted this, who knows...)";
+onLoadName = "PDG ZEUS TEMPLATE";
